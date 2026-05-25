@@ -1,4 +1,4 @@
-<h2>PROJECT UTS</h2>
+<h2>PROJECT UAS</h2>
 <p>Najwa Ramadhan 2488010001</p>
 <br>
 <img width="1918" height="892" alt="Screenshot 2026-05-18 131749" src="https://github.com/user-attachments/assets/22879ccf-6b7b-4501-a099-384a501be256" />
